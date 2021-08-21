@@ -2,7 +2,10 @@
 About the Project
 
 The project is for an innovative international rescue-animal training company called Grazioso Salvare.  This software is used to identify dogs that will qualify for the search and rescue training.  The project collects and sorts the animal data from the MongoDB database.  Filtering the data for the desired traits such as age and breed will help find the qualified rescue dogs.   Some dog breeds are more proficient than others for different types of rescues.  Training dogs that are not more than two years has been shown to be more effective.
-The search and rescue animal application is designed to search and filter animals by rescue type and animal breed.  The web application dashboard uses CRUD functionality to filter through the database.  The radio button filter option allows the user to search for water, mountain, and disaster rescue type breeds.  The table will display all the available dogs for the rescue type chosen.  The dashboard features a geolocation chart and a pie graph that is filled with the selected variables. 
+The search and rescue animal application is designed to search and filter animals by rescue type and animal breed.  The web application dashboard uses CRUD functionality to filter through the database.  CRUD functionality allows the app to be maintanable for future updates.  The advantages of CRUD functionality is that users will be able to create, read, update, and delete data within the database.  This functionality can be applied to many different applications besides search and rescue animals.  
+
+The company Grazioso Salvare requested a way to search and filter through thier data for specific types of breeds that meet the requirments to thier search and rescue dog capabilities.  This application will help a Grazioso Salvare by being able to sift through large amounts data about the dogs to select the most capable for the rescue team.  As a computer scientists, one will look at the requirements of the company and provide software solutions to solve problems.
+The radio button filter option allows the user to search for water, mountain, and disaster rescue type breeds.  The table will display all the available dogs for the rescue type chosen.  The dashboard features a geolocation chart and a pie graph that is filled with the selected variables. 
 
 Motivation
 
